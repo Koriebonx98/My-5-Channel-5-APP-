@@ -1,8 +1,6 @@
-# My 5 (Channel 5) APP 
+# My 5 (Channel 5) APP:
 
-
-My 5 App For PC
-
+# Features 
 - Simple App 
 - Simple Gui 
 - Allows Login 
