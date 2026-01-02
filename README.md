@@ -1,6 +1,6 @@
 # My 5 (Channel 5) APP:
 
-# Features 
+# Features: 
 - Simple App 
 - Simple Gui 
 - Allows Login 
